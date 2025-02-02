@@ -2,7 +2,7 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
 
     <sys:String x:Key="LOCQuickAddName">Quick Add</sys:String>
-    <sys:String x:Key="LOCQuickAddAdd">Add</sys:String>
+    <sys:String x:Key="LOCQuickAddAdd">追加</sys:String>
     <sys:String x:Key="LOCQuickAddRemove">Remove</sys:String>
     <sys:String x:Key="LOCQuickAddToggle">Toggle</sys:String>
 

@@ -18,7 +18,7 @@
     <sys:String x:Key="LOCCompanyCompanionMenuRemoveDescriptors">Remove business entity descriptors</sys:String>
     <sys:String x:Key="LOCCompanyCompanionMenuShowMerger">Show Company Merger</sys:String>
 
-    <sys:String x:Key="LOCCompanyCompanionSettingsAdd">Add</sys:String>
+    <sys:String x:Key="LOCCompanyCompanionSettingsAdd">追加</sys:String>
     <sys:String x:Key="LOCCompanyCompanionSettingsDescriptors">Business entity descriptors:</sys:String>
     <sys:String x:Key="LOCCompanyCompanionSettingsIngoreWords">Words to ignore to find similar companies:</sys:String>
     <sys:String x:Key="LOCCompanyCompanionSettingsRemove">Remove</sys:String>

@@ -57,7 +57,7 @@
     <sys:String x:Key="LOCMetadataUtilitiesEnum_IsBiggerThan">is bigger than</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesEnum_IsSmallerThan">is smaller than</sys:String>
 
-    <sys:String x:Key="LOCMetadataUtilitiesEnum_AddObject">add</sys:String>
+    <sys:String x:Key="LOCMetadataUtilitiesEnum_AddObject">追加</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesEnum_RemoveObject">remove</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesEnum_ClearField">clear field</sys:String>
 
@@ -73,6 +73,7 @@
     <sys:String x:Key="LOCMetadataUtilitiesGameIsNew">Game is new</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesMergeRuleEditor">Merge Rule Editor</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesName">Metadata Utilities</sys:String>
+    <sys:String x:Key="LOCMetadataUtilitiesNotificationLibraryNotFound">The following library you use in a conditional action wasn't found:</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesNotificationRemovedItems">Removed the following unused metadata items:</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesPrefixLabel">Prefix</sys:String>
 
@@ -98,7 +99,7 @@
     <sys:String x:Key="LOCMetadataUtilitiesSettingsDefaultCustomPath">Default custom menu path</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsDisplayAddButton">Show add button</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsDisplayDeleteButton">Show delete button</sys:String>
-    <sys:String x:Key="LOCMetadataUtilitiesSettingsEdit">Edit</sys:String>
+    <sys:String x:Key="LOCMetadataUtilitiesSettingsEdit">編集</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsExecuteOnNewBeforeMetadata">Execute only on new games before metadata download</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsHideInDetails">Hide in details</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsHideInEditor">Hide in editor</sys:String>
@@ -122,13 +123,13 @@
     <sys:String x:Key="LOCMetadataUtilitiesSettingsShowTopPanelButton">Show Metadata Editor button in top panel (requires restart)</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsSingleMenuEntry">Put the sub menus under the Metadata Utilities menu entry</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsTabConditionalActions">Conditional actions</sys:String>
-    <sys:String x:Key="LOCMetadataUtilitiesSettingsTabGeneral">General</sys:String>
+    <sys:String x:Key="LOCMetadataUtilitiesSettingsTabGeneral">一般</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsTabMerging">Merging</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsTabPrefixes">Prefixes</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsTabQuickAdd">Quick Add</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsTabRemoveUnwanted">Remove unwanted</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsTabTypeConfig">Field types</sys:String>
-    <sys:String x:Key="LOCMetadataUtilitiesSettingsTabWhitelist">Whitelist</sys:String>
+    <sys:String x:Key="LOCMetadataUtilitiesSettingsTabWhitelist">ホワイトリスト</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsToggle">Toggle</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsValuesToMerge">Values to merge</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesSettingsWhiteListInfo">These items will never be removed when removing unused items.</sys:String>

@@ -11,7 +11,7 @@
     <sys:String x:Key="LOCWikipediaMetadataSettingsDescriptionOverviewOnly">Only use overview of the wiki page as description.</sys:String>
     <sys:String x:Key="LOCWikipediaMetadataSettingsRemoveDescriptionLinks">Remove links from the description.</sys:String>
     <sys:String x:Key="LOCWikipediaMetadataSettingsDescriptionText">Here you can define sections from the wikipedia page you want to remove when fetching the description. Just add the names of the headings you don't want.</sys:String>
-    <sys:String x:Key="LOCWikipediaMetadataSettingsDescriptionAdd">Add</sys:String>
+    <sys:String x:Key="LOCWikipediaMetadataSettingsDescriptionAdd">追加</sys:String>
     <sys:String x:Key="LOCWikipediaMetadataSettingsDescriptionRemove">Remove</sys:String>
     <sys:String x:Key="LOCWikipediaMetadataSettingsTagsText">Here you can define which values you want to add as tags and specify a prefix for the tag.</sys:String>
     <sys:String x:Key="LOCWikipediaMetadataSettingsTagsName">Name</sys:String>

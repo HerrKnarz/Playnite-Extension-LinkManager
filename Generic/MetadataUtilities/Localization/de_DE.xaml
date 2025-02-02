@@ -73,6 +73,7 @@
     <sys:String x:Key="LOCMetadataUtilitiesGameIsNew">Spiel ist neu</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesMergeRuleEditor">Zusammenführungsregel-Editor</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesName">Metadata Utilities</sys:String>
+    <sys:String x:Key="LOCMetadataUtilitiesNotificationLibraryNotFound">Die folgende Bibliothek, die Sie in einer bedingten Aktion verwenden, wurde nicht gefunden:</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesNotificationRemovedItems">Folgende nicht verwendete Metadatenelemente wurden entfernt:</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesPrefixLabel">Präfix</sys:String>
 

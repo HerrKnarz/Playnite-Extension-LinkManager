@@ -73,6 +73,7 @@
     <sys:String x:Key="LOCMetadataUtilitiesGameIsNew">Game is new</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesMergeRuleEditor">Editor de reglas de fusión</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesName">Utilidades de metadatos</sys:String>
+    <sys:String x:Key="LOCMetadataUtilitiesNotificationLibraryNotFound">The following library you use in a conditional action wasn't found:</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesNotificationRemovedItems">Eliminados los siguientes metadatos sin usar:</sys:String>
     <sys:String x:Key="LOCMetadataUtilitiesPrefixLabel">Prefijo</sys:String>
 
